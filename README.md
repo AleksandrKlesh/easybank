@@ -1,3 +1,3 @@
-# Easybank
+# Frontend Mentor - Easybank landing page
 
-## Thanks https://github.com/thecodercoder/fem-easybank
+## Welcome! 👋
