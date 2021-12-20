@@ -5,7 +5,7 @@
       display: block;
       animation: fade-in 300ms ease-in-out forwards;
     }
-    .header__menu {
+    .header__toggle {
       > span:first-child {
         transform: rotate(45deg);
       }
@@ -21,7 +21,7 @@
   }
 
   .overlay {
-    display: none;
+    visibility: hidden;
     position: fixed;
     top: 3.75rem;
     right: 0px;
@@ -41,8 +41,8 @@
     }
   }
 
-  &__menu {
-    //Mobile Menu
+  &__toggle {
+    //Mobile Menu toggle
     > span {
       display: block;
       width: 26px;
